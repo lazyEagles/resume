@@ -20,7 +20,7 @@
 *   8/2013-7/2015
 
     M.S., Computer Science. National Tsing Hua University, Hsinchu, Taiwan.
-*   8/2002-7/2006
+*   8/2002-6/2006
 
     B.S., Electrical Engineering. National Cheng Kung University, Tainai,
     Taiwan.

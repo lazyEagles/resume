@@ -14,6 +14,7 @@
 *   Use MPI library and Pthread library for parallel programming.
 *   Use CUDA library for NVIDIA GPUs.
 *   Programming language: C (familiar).
+*   [GitHub](https://github.com/lazyEagles)
 
 --------------------------------------------------------------------------
 ### Education
